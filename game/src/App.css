@@ -1,9 +1,21 @@
 .App {
   text-align: center;
+  /* height: 10em; */
+  display: flex;
+  align-items: center;
 }
 
 .App-logo {
   height: 40vmin;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+.imageContainer{
+  width:800px;
+  box-sizing: border-box;
 }
 
 .App-header {
