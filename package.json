@@ -1,0 +1,23 @@
+{
+  "name": "Clicky-Game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install":"cd game && npm install",
+    "heroku-postbuild": "cd game && npm run build",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/najdhil86/Clicky-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/najdhil86/Clicky-Game/issues"
+  },
+  "homepage": "https://github.com/najdhil86/Clicky-Game#readme"
+}
