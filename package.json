@@ -6,6 +6,7 @@
   "scripts": {
     "install":"cd game && npm install",
     "heroku-postbuild": "cd game && npm run build",
+    "start": "node server"
   },
   "repository": {
     "type": "git",
