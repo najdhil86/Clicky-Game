@@ -48,15 +48,5 @@
         "id": 10,
         "image": "/images/owl10.jpg",
         "clicked": false
-    },
-    {
-        "id": 10,
-        "image": "/images/owl11.jpeg",
-        "clicked": false
-    },
-    {
-        "id": 10,
-        "image": "/images/owl12.jpg",
-        "clicked": false
     }
 ]
